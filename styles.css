@@ -1,4 +1,10 @@
 body {
     background-color: lightblue;
     color: blueviolet;
+    text-align: center;
+}
+div {
+    background-color: white;
+    margin-left: 30%;
+    margin-right: 30%;
 }
